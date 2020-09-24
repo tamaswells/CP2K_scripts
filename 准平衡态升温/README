@@ -1,0 +1,5 @@
+#cp2k_initial.inp is a template using NPT ensemble.
+1. Setting up DATAPATH in the first line of cp2k_initial.inp,
+2. Fill in initial ALPHA_BETA_GAMMA and ABC in cp2k_initial.inp and coordinates in coord.inc
+3. Setting global parameters in cp2k.sh.
+4. Run cp2k.sh
